@@ -22,13 +22,6 @@ To use the scripts, simply set the input data in notebooks. However, only n=4 (n
 filename = './opt_params/singlet.pickle'  # doublet.pickle, triplet.pickle
 ```
 
-## Citaion
-
-If you are doing any research using this source code, please cite the following paper:
-
-> Y. Nishida and A. Fumihiko, "A surrogate circuit of the subspace-search variational quantum eigensolver", Journal_name, xxxxx (20xx).
-
-
 ## License
 
 The source code is licensed MIT.
