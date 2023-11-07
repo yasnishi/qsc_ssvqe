@@ -24,6 +24,6 @@ filename = './opt_params/singlet.pickle'  # doublet.pickle, triplet.pickle
 
 ## License
 
-The source code is licensed MIT.
+Please see the license file.
 
 
