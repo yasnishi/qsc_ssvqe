@@ -12,7 +12,7 @@ pip install openfermion
 pip install tqdm
 ```
 
-We have confirmed that this code works with qiskit==0.44.1.
+We have confirmed that this code works with qiskit==0.45.0.
 
 ## How to use
 
